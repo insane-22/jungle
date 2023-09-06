@@ -1,0 +1,35 @@
+.containers{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #060c2d;
+}
+
+.containerr{
+    max-width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.Link{
+    position: relative;
+    display: block;
+    margin: 20px 200px;
+    padding: 10px 30px;
+    text-align: center;
+    font-size: 2em;
+    text-decoration: none;
+    color: #fff;
+    background: #3f51b5;
+    transition: 0.5s;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.5);
+} 
+
+.Link:hover{
+    background: #e91e63;
+}
