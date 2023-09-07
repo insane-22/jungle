@@ -19,7 +19,8 @@ Weebsite features:-
 <li>Largely responsive</li>
 <li>Payment with Credit Card or PayPal</li>
 
-Dummy card credentials:-
-card number- 4012888888881881
-cvv- any number
+<br><br><br>
+Dummy card credentials:-<br>
+card number- 4012888888881881<br>
+cvv- any number<br>
 expiry- any future date
